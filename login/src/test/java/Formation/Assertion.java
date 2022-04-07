@@ -27,6 +27,10 @@ public abstract class Assertion {
 		System.out.println(driver.findElement(By.cssSelector("input[id*='SeniorCitizenDiscount']")).isSelected());
 
 		Assert.assertTrue(driver.findElement(By.cssSelector("input[id*='SeniorCitizenDiscount']")).isSelected());
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
 	}
 
 }
