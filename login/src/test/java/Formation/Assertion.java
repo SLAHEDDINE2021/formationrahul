@@ -31,6 +31,13 @@ public abstract class Assertion {
 		System.out.println("a");
 		System.out.println("a");
 		System.out.println("a");
+System.out.println("a");
+System.out.println("a");
+System.out.println("a");
+System.out.println("a");
+
+
+System.out.println("a");System.out.println("a");System.out.println("a");
 	}
 
 }
